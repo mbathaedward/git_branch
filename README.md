@@ -43,3 +43,8 @@ list merdged
 git branch--merged
 -list umerged commits
 """git branch --no-merged"""
+
+### Bonus commands
+'''git log
+    <h1>
+   '''
