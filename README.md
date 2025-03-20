@@ -12,33 +12,34 @@ learnig git branching
      git branch "branchname"
 '''
 
-2.switcing between branches
-''''bash
+2.switcing between branchesF
+'''bash
       -git switch branchname
       -git checkout branchname
 '''
 
  -directly swiching to a neew branch
-'''bash
+'''""""
     git checkout -b branchname
 '''
 
 3.merging
-'''bash
+'''""""
     git merge sourcebranch
 '''
 
 4.Resolving conflicts
-'''bash
+"""bash
     git mergetool
-'''
+"""
 5.list all branches
-'''git branch'''
+"""git branch"""
 '''git branch-v'''
 
 git status
+-list of extra commands
 
 list merdged
 git branch--merged
 -list umerged commits
-'''git branch --no-merged'''
+"""git branch --no-merged"""
